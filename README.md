@@ -9,7 +9,10 @@ In this project we created a project based on our course "Digital Logic and Comp
 
 
 
-
+## Clone repository
+```
+https://github.com/fragilepotato/AVE-4405.git
+```
 
 
 

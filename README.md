@@ -13,16 +13,16 @@ In this project we created a project based on our course "Digital Logic and Comp
 
 
 
-Rationale of the Course:
+##Rationale of the Course:
 To learn and familiarise the basics of digital logics as well as the analysis and design of computers.
 
-Course Objective:
+##Course Objective:
 1. Impart basic ideas regarding logic gates used for digital avionics systems.
 2. Teach the combinational and sequential logic circuit and its application in avionics computer design. 
 3. Provide knowledge and insights on computer-aided design tools for logic design, analysis and 
 synthesis for avionics application. 
 
-Course Outcomes (CO):
+##Course Outcomes (CO):
 Upon completion of the course, the students will be able to: 
 1. Explain the structure of various number systems, combinational and sequential circuits and its 
 applications in digital avionics system design.
@@ -32,7 +32,7 @@ and hardware description language (Verilog, VHDL).
 programming of microprocessors and its application in avionics. 
 4. Execute and report on a project working in a group both as a member and as a leader.
 
-Course Content:
+##Course Content:
 Introduction to number systems and codes.
 Analysis and synthesis of digital logic circuits: Basic logic functions, Boolean algebra, combinational 
 logic circuits, minimization of combinational logic. Modular combinational circuit, Multiplexer, 
@@ -46,7 +46,7 @@ devices
 Elements of computers: Arithmetic circuits, Arithmetic and logic units, Memory Array, Logic 
 Array PLAs, FPGAs, register and bus structures, Controllers/Sequencers, Microprogramm
 
-Textbooks:
+##Textbooks:
 1. Digital Design and Computer Architecture: ARM Edition- Sarah Harris and David Harris, Morgan 
 Kaufmann Publishers Inc. 
 2. Digital Logic and Computer Design- M Morris Mano; Prentice Hall of India Private Ltd.
